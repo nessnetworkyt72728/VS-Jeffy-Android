@@ -1,22 +1,66 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "vs drawing jeffy",
+	"hideFreeplay": false,
+	"weekBackground": "kitchen",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"djmenu",
+		"marvinmenu",
+		"rosemenu"
+	],
+	"songs": [
+		[
+			"play-doe",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"real boy",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"fraud",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"demented",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"run!!!",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }
